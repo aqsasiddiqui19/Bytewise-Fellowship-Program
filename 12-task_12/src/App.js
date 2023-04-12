@@ -1,5 +1,5 @@
 import './App.css';
-import MainComponent from './Components/UseContext/MainComponent'           
+import MainComponent from './Components/UseContext/MainComponent' ;         
 import Data from './Components/UseRef/Data';
 
 function App() {
