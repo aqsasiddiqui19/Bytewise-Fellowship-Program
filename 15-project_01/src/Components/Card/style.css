@@ -1,0 +1,53 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+p {
+  background-color: #858863;
+  font-size: 1rem;
+  border-radius: 10%;
+  font-weight: 600;
+}
+
+.Card {
+  background: darkgoldenrod;
+  border-radius: 5%;
+  border: 2px solid black;
+  margin: 10px;
+}
+
+.Card_img {
+  width: 20px;
+  height: 20px;
+}
+
+.Card_types {
+  display: flex;
+  justify-content: center;
+}
+
+.Card_type {
+  padding: 5px 10px;
+  border-radius: 10px;
+  margin: 0px 0px 10px 5px;
+  color: #fff;
+}
+
+.Card_name {
+  font-weight: 800;
+  text-transform: capitalize;
+  margin-bottom: 10px;
+}
+
+.Card_info {
+  padding: 15px;
+}
+
+.Card_data {
+  margin-bottom: 5px;
+}
+
+.Card_data.title {
+  font-weight: 700;
+}
